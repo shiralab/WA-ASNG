@@ -1,0 +1,15 @@
+{
+    "problem": {
+        "max_evals": 10000,
+        "dim": 100,
+        "name": "NoisyOneMax",
+        "seed": 1,
+        "noisevar": 1.0
+    },
+    "algorithm": {
+        "name": "WAASNG",
+        "param": {
+            "population_size": 100
+        }
+    }
+}

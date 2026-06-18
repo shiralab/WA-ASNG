@@ -1,0 +1,14 @@
+{
+    "problem": {
+        "max_evals": 10000,
+        "dim": 100,
+        "name": "OneMax",
+        "seed": 1
+    },
+    "algorithm": {
+        "name": "WAASNG",
+        "param": {
+            "population_size": 100
+        }
+    }
+}
